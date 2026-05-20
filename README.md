@@ -1,2 +1,2 @@
-# Delta-Demo
+# Delta-Demo.
 I use Github.
